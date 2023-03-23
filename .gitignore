@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+results/angles/*.png
+results/gif
+results/bland_altmann/*.png
+src/.ipynb_checkpoints
+exclude
